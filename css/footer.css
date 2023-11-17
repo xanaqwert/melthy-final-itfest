@@ -21,6 +21,7 @@ Ini adalah css dari bagian/section Footer
 }
 
 .img-background {
+  position: absolute;
   margin-top: -15rem;
   margin-right: 25rem;
 }
@@ -35,19 +36,6 @@ Ini adalah css dari bagian/section Footer
   text-align: center;
   color: #654ce7;
   padding-bottom: 2rem;
-}
-
-@media screen and (max-width: 800px) {
-  .text-quotes {
-    font-size: 1.4rem;
-    padding: 20px;
-  }
-  .profile-quotes {
-    margin-top: -25rem;
-  }
-  .quotes-melthy {
-    height: 350px;
-  }
 }
 
 .name-quotes {
